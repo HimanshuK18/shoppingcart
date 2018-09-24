@@ -1,0 +1,12 @@
+C:\Users\himanshu.khurana\Desktop\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll.config
+C:\Users\himanshu.khurana\Desktop\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll
+C:\Users\himanshu.khurana\Desktop\ShoppingCart\ShoppingCart\bin\ShoppingCart.pdb
+C:\Users\himanshu.khurana\Desktop\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\himanshu.khurana\Desktop\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.dll
+C:\Users\himanshu.khurana\Desktop\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
+C:\Users\himanshu.khurana\Desktop\IMP_stuff\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll.config
+C:\Users\himanshu.khurana\Desktop\IMP_stuff\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll
+C:\Users\himanshu.khurana\Desktop\IMP_stuff\ShoppingCart\ShoppingCart\bin\ShoppingCart.pdb
+C:\Users\himanshu.khurana\Desktop\IMP_stuff\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\himanshu.khurana\Desktop\IMP_stuff\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.dll
+C:\Users\himanshu.khurana\Desktop\IMP_stuff\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
